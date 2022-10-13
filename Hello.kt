@@ -1,4 +1,4 @@
 fun main()
 {
-    println("Hello world")
+    println(message = "Hello world")
 }

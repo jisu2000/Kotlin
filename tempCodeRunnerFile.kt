@@ -1,1 +1,0 @@
-  // Integer TYPES: Byte (8 bit), Short (16 bit), Int (32 bit), Long (64 bit)
